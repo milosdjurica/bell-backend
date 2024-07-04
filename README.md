@@ -17,7 +17,7 @@ cd bell-backend
 3. Install dependencies
 
 ```bash
-pip install flask web3
+pip install flask web3 python-dotenv
 ```
 
 # Interact with smart contracts and start backend in development mode
